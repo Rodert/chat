@@ -1,6 +1,8 @@
 <template>
   <img alt="Vue logo" src="./assets/logo.png">
   <HelloWorld msg="Welcome to Your Vue.js App"/>
+  <button @click="$router.push('/chat')">进入聊天室</button>
+
 </template>
 
 <script>

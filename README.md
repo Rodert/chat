@@ -1,1 +1,3 @@
 # chat
+
+npm run serve
